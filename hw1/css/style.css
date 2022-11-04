@@ -1,0 +1,26 @@
+body {
+   background-color: DodgerBlue; 
+   font-family:Trebuchet MS ;
+}
+h1 { 
+   color: white;
+}
+h2 {
+   color: white;
+}
+li {
+   color: yellow;
+   font-size: 16px;
+}
+p {
+   color: DarkOrange;  
+}
+b {
+   color: yellow; 
+}
+a {
+   color:brown;
+}
+span {
+   color:Navy;
+}
